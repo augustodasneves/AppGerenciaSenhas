@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AUGUSTO</Machine>
+    <WindowsUser>Augusto</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>19f5cd76-2537-4a4c-85db-cbf2c5be893f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>82CB11A26AD530FBAEE7F01725AB03A218B8104907C4EB8FB2102F80A066B879</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19f5cd76-2537-4a4c-85db-cbf2c5be893f_1.0.0.1_neutral__b6at1ppn9690r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19f5cd76-2537-4a4c-85db-cbf2c5be893f_b6at1ppn9690r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19f5cd76-2537-4a4c-85db-cbf2c5be893f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Augusto</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-01T12:06:31.963</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\Release\AppGerenciaSenhas.exe">
+      <PackagePath>AppGerenciaSenhas.exe</PackagePath>
+      <Modified>2015-03-01T12:06:31.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-01T12:06:31.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-01T12:06:31.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\Release\AppGerenciaSenhas.xr.xml">
+      <PackagePath>AppGerenciaSenhas.xr.xml</PackagePath>
+      <Modified>2015-03-01T12:06:31.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-01T12:06:31.801</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

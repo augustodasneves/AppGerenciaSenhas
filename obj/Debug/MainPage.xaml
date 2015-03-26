@@ -1,0 +1,37 @@
+﻿<Page
+    x:Class="AppGerenciaSenhas.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:AppGerenciaSenhas"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid x:Name="grdCriptografa" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="0,0,0,10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <RadioButton x:Name="rdbDES" Content="DES" IsChecked="True" Grid.Column="1" HorizontalAlignment="Left" Margin="749,399,0,0" VerticalAlignment="Top" Height="29" Width="111"/>
+        <RadioButton x:Name="rdbMD5" Content="MD5" Grid.Column="1" HorizontalAlignment="Left" Margin="631,398,0,0" VerticalAlignment="Top" Height="29" Width="111"/>
+        <RadioButton x:Name="rdbAES" Content="AES" Grid.Column="1" HorizontalAlignment="Left" Margin="858,398,0,0" VerticalAlignment="Top" Height="29" Width="111"/>
+        <TextBox x:Name="txtCriptografia" Grid.Column="1" HorizontalAlignment="Left" Margin="683,483,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="226" Height="32"/>
+        <TextBox x:Name="txtCifra" Grid.Column="1" HorizontalAlignment="Left" Margin="683,354,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="226" Height="32"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="643,363,0,0" TextWrapping="Wrap" Text="Cifra" VerticalAlignment="Top" Height="13" Width="35"/>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="596,490,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="13" Width="72">
+        	<Run Text="CriptoGrafado"/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        </TextBlock>
+        <TextBlock Grid.Column="1" HorizontalAlignment="Left" Margin="683,277,0,0" TextWrapping="Wrap" Text="Criptografia" VerticalAlignment="Top" FontSize="40" Height="52" Width="209"/>
+        
+        <AppBar x:Name="Barra" Grid.ColumnSpan="2" Margin="0,0,1141,0" IsOpen="True" Background="#FFA21919">
+            <Button x:Name="btnGerenciarSenhas" Content="Gerenciar Senhas"/>
+            </AppBar>
+        <Button x:ConnectionId='1' x:Name="btnCifrar" Grid.ColumnSpan="2" Content="Cifrar" HorizontalAlignment="Left" Margin="680,435,0,0" VerticalAlignment="Top" Width="232"                     />
+
+    </Grid>
+</Page>
+

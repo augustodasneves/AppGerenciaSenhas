@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\augusto\dropbox\facensa\2015-1\segurança\appgerenciasenhas\appgerenciasenhas\obj\x86\release\intermediatexaml\appgerenciasenhas.exe" HashGuid="c76c40df-729a-cc30-6e71-2cc9ff78459b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\augusto\dropbox\facensa\2015-1\segurança\appgerenciasenhas\packages\sqliteportable.3.8.8.1\lib\win81\sqlite.winrt.dll" HashGuid="640204cb-484b-5c4f-2577-d20095637848" />
+    <ReferenceAssembly PathName="c:\users\augusto\dropbox\facensa\2015-1\segurança\appgerenciasenhas\packages\sqliteportable.3.8.8.1\lib\win81-hidden\x86\sqlite.winrt.ext.dll" HashGuid="8e81409a-a4a0-d5aa-4135-637ced39dc49" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

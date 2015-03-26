@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AUGUSTO</Machine>
+    <WindowsUser>Augusto</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>19f5cd76-2537-4a4c-85db-cbf2c5be893f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F14252CD8E3E8260EB74EAA8143BEA6996323428708B38BE8B3BF908002F5D01</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>19f5cd76-2537-4a4c-85db-cbf2c5be893f_1.0.0.1_x86__b6at1ppn9690r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>19f5cd76-2537-4a4c-85db-cbf2c5be893f_b6at1ppn9690r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>19f5cd76-2537-4a4c-85db-cbf2c5be893f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Augusto</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-03-26T22:30:17.767</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\AppGerenciaSenhas.exe">
+      <PackagePath>AppGerenciaSenhas.exe</PackagePath>
+      <Modified>2015-03-26T22:30:17.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\packages\SQLitePortable.3.8.8.1\lib\win81\SQLite.WinRT.dll">
+      <PackagePath>SQLite.WinRT.dll</PackagePath>
+      <Modified>2015-03-23T22:16:47.225</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\packages\SQLitePortable.3.8.8.1\build\win81\..\..\lib\win81-hidden\x86\SQLite.WinRT.Ext.dll">
+      <PackagePath>SQLite.WinRT.Ext.dll</PackagePath>
+      <Modified>2015-03-23T22:16:47.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-31T11:01:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-03-26T22:30:17.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-03-26T22:30:17.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\ValidaSenha.xbf">
+      <PackagePath>ValidaSenha.xbf</PackagePath>
+      <Modified>2015-03-26T22:30:17.172</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\AppGerenciaSenhas.xr.xml">
+      <PackagePath>AppGerenciaSenhas.xr.xml</PackagePath>
+      <Modified>2015-03-26T22:30:17.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Augusto\Dropbox\facensa\2015-1\segurança\AppGerenciaSenhas\AppGerenciaSenhas\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-03-26T22:30:17.498</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\">
+      <Name>Microsoft.VCLibs.120.00.Debug</Name>
+      <Version>12.0.21005.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.120.00.Debug, MinVersion = 12.0.21005.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.VCLibs\12.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.12.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
