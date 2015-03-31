@@ -47,20 +47,20 @@ namespace AppGerenciaSenhas.Class
         private void VerificaTipoCaractere(string password)
         {
             int val = 0;
-            //MINUSCULA
-            if (Regex.Match(password, "[^a-z]", RegexOptions.IgnoreCase).Success)
+             //MINUSCULA
+            if (Regex.Match(password, @"[a-z]").Success)
             {
                 val += 1;
             }
 
             //MAIUSCULA
-            if (Regex.Match(password, "[^A-Z]", RegexOptions.IgnoreCase).Success)
+            if (Regex.Match(password, @"[A-Z]").Success)
             {
                 val += 1;
             }
 
             //NUMERO
-            if (Regex.Match(password, @"^\d$").Success)
+            if (Regex.Match(password, @"\d").Success)
             {
                 val += 1;
             }
